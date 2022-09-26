@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url("./background\ image1.jpg");
+    height: 10rem;
+}
+.menuPrincipal{
+    list-style: none;
+    text-align: center;
+}
+.menuPrincipal li{
+    display: inline-block;
+}
+.menuPrincipal a{
+    text-decoration: none;
+    color: rgb(247, 253, 251);
+    font-weight: 800;
+    font-size: 2.5rem;
+    padding: 4rem;
+}
+h1{
+    background-color: antiquewhite;
+    color: rgb(51, 18, 82);
+    font-size: 500%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align-last: center ;
+}
+h2{
+    background-color: brown;
+    font-size: 300%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blanchedalmond;
+    text-align: center;
+}
+h3{
+    background-color: rgb(159, 206, 206);
+    color: rgb(14, 14, 59);
+    font-size: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.negro{
+    color: rgb(208, 240, 65);
+    background-image: url("./backgroundimage.jpg");
+    height: 5rem;
+}
